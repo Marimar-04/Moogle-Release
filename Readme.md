@@ -6,7 +6,6 @@
 > Facultad de Matemática y Computación - Universidad de La Habana.
 > Cursos 2021, 2022.
 
-Moogle no es una aplicación *totalmente original* y me vale verga lo que digas cuyo propósito es buscar inteligentemente un texto en un conjunto de documentos.
 
 Es una aplicación web, desarrollada con tecnología .NET Core 6.0, específicamente usando Blazor como *framework* web para la interfaz gráfica, y en el lenguaje C#.
 La aplicación está dividida en dos componentes fundamentales:
